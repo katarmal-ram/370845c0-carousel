@@ -1,1 +1,163 @@
-null
+{
+  "hero": {
+    "type": "carousel",
+    "slides": [
+      {
+        "cta": {
+          "primary": "View Our Products",
+          "secondary": "Learn More",
+          "primaryAction": "/products",
+          "secondaryAction": "/about"
+        },
+        "title": "Precision Brass Components Manufacturing Excellence",
+        "subtitle": "30 Years of Innovative Manufacturing Solutions in Rajkot, Gujarat",
+        "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
+      },
+      {
+        "cta": {
+          "primary": "Explore Our Services",
+          "secondary": "Contact Us",
+          "primaryAction": "/services",
+          "secondaryAction": "/contact"
+        },
+        "title": "Advanced CNC Precision Manufacturing Technology",
+        "subtitle": "40+ CNC Machines Delivering Exceptional Quality and Precision",
+        "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
+      },
+      {
+        "cta": {
+          "primary": "Request a Quote",
+          "secondary": "Call Now",
+          "primaryAction": "/contact",
+          "secondaryAction": "tel:+917600000000"
+        },
+        "title": "Trusted Precision Components for Multiple Industries",
+        "subtitle": "ISO 9001:2015 and ISO 14001:2015 Certified Manufacturing Partner",
+        "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
+      }
+    ],
+    "enabled": true
+  },
+  "meta": {
+    "title": "Momai Brass - Precision Component Manufacturing | Industrial Solutions",
+    "description": "Leading precision parts manufacturer in Rajkot, Gujarat. Specializing in brass, stainless steel, and aluminum components for automotive and industrial sectors."
+  },
+  "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Get Started?",
+      "enabled": true,
+      "subtitle": "Transform your manufacturing needs with our precision engineering solutions",
+      "primaryCTA": {
+        "text": "Get Quote",
+        "action": "/contact"
+      },
+      "secondaryCTA": {
+        "text": "Call Us",
+        "action": "tel:+917600000000"
+      }
+    },
+    "faqs": {
+      "type": "faqs",
+      "items": [
+        {
+          "id": "minimum-order",
+          "answer": "We accommodate both small and large volume orders, with flexible manufacturing capabilities for various production scales.",
+          "question": "What is your minimum order quantity?"
+        },
+        {
+          "id": "lead-time",
+          "answer": "Standard lead times range from 2-4 weeks depending on component complexity and order volume.",
+          "question": "What are your typical production lead times?"
+        },
+        {
+          "id": "quality",
+          "answer": "We maintain ISO 9001:2015 and ISO 14001:2015 certifications with rigorous quality control processes and advanced CNC technology.",
+          "question": "How do you ensure product quality?"
+        },
+        {
+          "id": "materials",
+          "answer": "We specialize in brass, stainless steel, aluminum, and copper precision components for various industrial applications.",
+          "question": "What materials can you work with?"
+        },
+        {
+          "id": "customization",
+          "answer": "Yes, we provide complete custom manufacturing solutions tailored to specific client requirements and industry standards.",
+          "question": "Do you offer custom manufacturing?"
+        }
+      ],
+      "title": "Frequently Asked Questions",
+      "enabled": true,
+      "subtitle": "Get answers to common questions about our precision manufacturing services"
+    },
+    "stats": {
+      "type": "stats",
+      "items": [
+        {
+          "label": "Years Experience",
+          "number": "30+"
+        },
+        {
+          "label": "CNC Machines",
+          "number": "40+"
+        },
+        {
+          "label": "Product Variants",
+          "number": "500+"
+        },
+        {
+          "label": "Satisfied Clients",
+          "number": "1000+"
+        }
+      ],
+      "title": "Our Achievements",
+      "enabled": true,
+      "subtitle": "Delivering precision and excellence across multiple industries"
+    },
+    "expertise": {
+      "type": "expertise",
+      "title": "Industries We Serve",
+      "enabled": true,
+      "sectors": [
+        {
+          "id": "automotive",
+          "name": "Automotive",
+          "image": "https://images.unsplash.com/photo-1586336153815-6d6c9d596d4f?w=800&auto=format",
+          "description": "Precision components for automotive systems, ensuring high performance and reliability",
+          "applications": [
+            "Engine Components",
+            "Transmission Parts",
+            "Brake System Elements",
+            "Fuel System Connectors"
+          ]
+        },
+        {
+          "id": "pneumatic",
+          "name": "Pneumatic Systems",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=800&auto=format",
+          "description": "Specialized precision parts for pneumatic equipment and control systems",
+          "applications": [
+            "Valve Components",
+            "Cylinder Fittings",
+            "Pressure Regulators",
+            "Air Handling Parts"
+          ]
+        },
+        {
+          "id": "electrical",
+          "name": "Electrical Sector",
+          "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&auto=format",
+          "description": "High-precision electrical and electronic component manufacturing",
+          "applications": [
+            "Connector Pins",
+            "Terminal Blocks",
+            "Electrical Contacts",
+            "Switch Components"
+          ]
+        }
+      ],
+      "subtitle": "Delivering precision solutions across diverse industrial sectors",
+      "description": "Momai Brass specializes in manufacturing high-quality precision components for multiple industrial applications, leveraging advanced CNC technology and extensive engineering expertise."
+    }
+  }
+}
