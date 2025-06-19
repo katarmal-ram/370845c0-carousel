@@ -1,22 +1,22 @@
 {
   "hero": {
     "type": "video",
-    "title": "Precision Components Manufacturing",
+    "title": "Precision Manufacturing Solutions",
     "enabled": true,
-    "subtitle": "Delivering High-Quality Precision Parts for Automotive, Pneumatic, and Hydraulic Industries",
-    "backgroundImage": "",
-    "backgroundVideo": "https://example.com/momai-brass-manufacturing-process.mp4"
+    "subtitle": "Delivering High-Quality Precision Components for Automotive, Pneumatic, and Hydraulic Industries",
+    "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+    "backgroundVideo": "https://example.com/manufacturing-process-video.mp4"
   },
   "meta": {
     "title": "Precision Components Manufacturing | Momai Brass | CNC Machining Services",
-    "description": "Expert precision parts manufacturing with 40+ CNC machines, delivering high-quality components for automotive, pneumatic, and hydraulic sectors."
+    "description": "Expert precision parts manufacturing using advanced CNC machines. Specializing in brass, stainless steel, and aluminum components for multiple industries."
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Let's Discuss Your Precision Component Needs",
+      "title": "Ready to Start Your Precision Manufacturing Project?",
       "enabled": true,
-      "subtitle": "Partner with Momai Brass for top-tier precision manufacturing solutions",
+      "subtitle": "Get expert consultation and custom manufacturing solutions tailored to your specific requirements",
       "primaryCTA": {
         "text": "Request Quote",
         "action": "/contact"
@@ -31,73 +31,73 @@
       "items": [
         {
           "id": "custom-manufacturing",
-          "image": "https://example.com/custom-manufacturing.jpg",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
           "title": "Custom Manufacturing",
-          "description": "We specialize in creating custom precision components tailored to your specific requirements. Our advanced CNC machines ensure exceptional accuracy and quality for every unique project.",
+          "description": "We provide tailored precision component manufacturing using advanced CNC machines. Our expertise allows us to create complex parts with exceptional accuracy and consistency.",
           "capabilities": [
-            "Precision CNC Machining",
-            "Custom Part Design",
-            "Prototype Development",
-            "Small to Large Batch Production"
+            "Customized Part Design",
+            "Rapid Prototyping",
+            "Small to Large Volume Production",
+            "Multi-Material Capabilities"
+          ]
+        },
+        {
+          "id": "surface-finishing",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "title": "Surface Finishing",
+          "description": "Our advanced surface finishing techniques ensure superior quality and performance of precision components. We deliver smooth, precise, and aesthetically pleasing parts.",
+          "capabilities": [
+            "Deburring Services",
+            "Polishing",
+            "Coating Applications",
+            "Quality Surface Treatment"
           ]
         },
         {
           "id": "mass-production",
-          "image": "https://example.com/mass-production.jpg",
-          "title": "Mass Production Services",
-          "description": "Leverage our extensive manufacturing capabilities for high-volume precision component production. With 40+ CNC machines, we deliver consistent quality and rapid turnaround times.",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "title": "Mass Production",
+          "description": "Leveraging our 40+ CNC machines, we excel in high-volume precision component manufacturing with consistent quality and rapid turnaround times.",
           "capabilities": [
             "High-Volume Manufacturing",
             "Consistent Quality Control",
             "Efficient Production Processes",
             "Scalable Manufacturing Solutions"
           ]
-        },
-        {
-          "id": "surface-finishing",
-          "image": "https://example.com/surface-finishing.jpg",
-          "title": "Surface Finishing",
-          "description": "Enhance the performance and aesthetics of your precision components with our advanced surface finishing techniques. We ensure superior quality and durability for every part.",
-          "capabilities": [
-            "Deburring Services",
-            "Precision Surface Treatment",
-            "Multiple Finishing Techniques",
-            "Enhanced Component Performance"
-          ]
         }
       ],
       "title": "Our Manufacturing Services",
       "enabled": true,
-      "subtitle": "Comprehensive Precision Manufacturing Solutions for Diverse Industries"
+      "subtitle": "Comprehensive Precision Manufacturing Solutions for Diverse Industrial Needs"
     },
     "capabilities": {
       "type": "capabilities",
       "items": [
         {
           "id": "production-capacity",
-          "title": "Manufacturing Capacity",
+          "title": "Advanced Production Capabilities",
           "metrics": [
             {
               "label": "CNC Machines",
               "value": "40+ Machines"
             },
             {
-              "label": "Operating Capability",
+              "label": "Operating Capacity",
               "value": "24/7 Production"
             },
             {
-              "label": "Typical Delivery",
-              "value": "2-4 Weeks"
+              "label": "Delivery Timeline",
+              "value": "2-4 Weeks Standard"
             }
           ],
-          "description": "Our extensive manufacturing infrastructure enables rapid, high-quality production of precision components across multiple industries."
+          "description": "Our extensive CNC machine fleet enables rapid, high-precision manufacturing across multiple material types and complex geometries."
         },
         {
           "id": "technical-expertise",
-          "title": "Technical Capabilities",
+          "title": "Technical Manufacturing Expertise",
           "metrics": [
             {
-              "label": "Manufacturing Technology",
+              "label": "Manufacturing Technologies",
               "value": "Advanced CNC Machining"
             },
             {
@@ -109,31 +109,31 @@
               "value": "Comprehensive Engineering Support"
             }
           ],
-          "description": "With three decades of experience, we provide cutting-edge technical expertise in precision component manufacturing."
+          "description": "With three decades of experience, we provide cutting-edge precision manufacturing solutions across automotive, pneumatic, and hydraulic sectors."
         },
         {
           "id": "quality-standards",
-          "title": "Quality Assurance",
+          "title": "Quality and Precision",
           "metrics": [
             {
               "label": "Precision Tolerance",
               "value": "±0.01mm"
             },
             {
-              "label": "Quality Rate",
-              "value": "99.9% Accuracy"
+              "label": "Quality Certification",
+              "value": "ISO 9001:2015, ISO 14001:2015"
             },
             {
-              "label": "Compliance",
-              "value": "ISO Certified"
+              "label": "Inspection Standard",
+              "value": "100% Quality Checked"
             }
           ],
-          "description": "We maintain the highest quality standards through rigorous precision manufacturing and comprehensive quality control processes."
+          "description": "We maintain the highest quality standards through rigorous inspection processes and internationally recognized certifications."
         }
       ],
       "title": "Our Manufacturing Capabilities",
       "enabled": true,
-      "subtitle": "Advanced Technology and Precision Engineering"
+      "subtitle": "Advanced Technology and Precision Engineering at Your Service"
     },
     "manufacturing-process": {
       "type": "manufacturing-process",
@@ -141,37 +141,37 @@
         {
           "step": 1,
           "title": "Initial Consultation",
-          "description": "Understand client requirements, technical specifications, and project scope."
+          "description": "Understand client requirements, discuss technical specifications, and evaluate project feasibility."
         },
         {
           "step": 2,
           "title": "Design and Engineering",
-          "description": "Develop detailed manufacturing designs and engineering blueprints."
+          "description": "Create detailed design blueprints and select optimal manufacturing approach and materials."
         },
         {
           "step": 3,
           "title": "CNC Programming",
-          "description": "Prepare precise CNC machine instructions for component manufacturing."
+          "description": "Develop precise CNC machine instructions for accurate component manufacturing."
         },
         {
           "step": 4,
           "title": "Precision Manufacturing",
-          "description": "Execute component production using advanced CNC machining technologies."
+          "description": "Execute component production using advanced CNC machines with strict quality control."
         },
         {
           "step": 5,
-          "title": "Quality Inspection",
-          "description": "Conduct comprehensive quality checks and precision measurements."
+          "title": "Surface Finishing",
+          "description": "Apply advanced surface treatment techniques to enhance component performance and aesthetics."
         },
         {
           "step": 6,
-          "title": "Delivery and Support",
-          "description": "Package and deliver components with ongoing technical support."
+          "title": "Quality Inspection and Delivery",
+          "description": "Conduct comprehensive quality checks and prepare components for timely customer delivery."
         }
       ],
       "title": "Our Manufacturing Process",
       "enabled": true,
-      "subtitle": "Systematic Approach to Precision Component Production"
+      "subtitle": "Systematic Approach Ensuring Superior Precision and Quality"
     }
   }
 }
