@@ -4,35 +4,35 @@
     "slides": [
       {
         "cta": {
-          "primary": "View Our Products",
+          "primary": "Explore Precision Parts",
           "secondary": "Learn More",
           "primaryAction": "/products",
           "secondaryAction": "/about"
         },
-        "title": "Precision Brass Components Manufacturing Excellence",
-        "subtitle": "30 Years of Innovative Manufacturing Solutions in Rajkot, Gujarat",
+        "title": "Precision Manufacturing Excellence for Critical Industries",
+        "subtitle": "30 Years of Delivering High-Quality Precision Components Nationwide",
         "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
       },
       {
         "cta": {
-          "primary": "Explore Our Services",
-          "secondary": "Contact Us",
+          "primary": "View Manufacturing Capabilities",
+          "secondary": "Contact Experts",
           "primaryAction": "/services",
           "secondaryAction": "/contact"
         },
-        "title": "Advanced CNC Precision Manufacturing Technology",
-        "subtitle": "40+ CNC Machines Delivering Exceptional Quality and Precision",
+        "title": "Advanced CNC Machining with 40+ State-of-the-Art Machines",
+        "subtitle": "Cutting-Edge Technology Delivering Precision Components Across Sectors",
         "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
       },
       {
         "cta": {
-          "primary": "Request a Quote",
+          "primary": "Request Custom Quote",
           "secondary": "Call Now",
           "primaryAction": "/contact",
-          "secondaryAction": "tel:+917600000000"
+          "secondaryAction": "tel:+918000000000"
         },
-        "title": "Trusted Precision Components for Multiple Industries",
-        "subtitle": "ISO 9001:2015 and ISO 14001:2015 Certified Manufacturing Partner",
+        "title": "ISO Certified Precision Manufacturing Partner",
+        "subtitle": "Trusted Solutions for Automotive, Pneumatic, and Electrical Sectors",
         "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
       }
     ],
@@ -40,7 +40,7 @@
   },
   "meta": {
     "title": "Momai Brass - Precision Component Manufacturing | Industrial Solutions",
-    "description": "Leading precision parts manufacturer in Rajkot, Gujarat. Specializing in brass, stainless steel, and aluminum components for automotive and industrial sectors."
+    "description": "Leading precision parts manufacturer with 30 years experience. Specializing in CNC machined components for automotive, pneumatic, and electrical sectors."
   },
   "sections": {
     "cta": {
@@ -54,7 +54,7 @@
       },
       "secondaryCTA": {
         "text": "Call Us",
-        "action": "tel:+917600000000"
+        "action": "tel:+918000000000"
       }
     },
     "faqs": {
@@ -62,33 +62,33 @@
       "items": [
         {
           "id": "minimum-order",
-          "answer": "We accommodate both small and large volume orders, with flexible manufacturing capabilities for various production scales.",
+          "answer": "We accommodate both small and large volume orders, with flexible manufacturing capabilities for 50-10,000 units depending on component complexity.",
           "question": "What is your minimum order quantity?"
         },
         {
           "id": "lead-time",
-          "answer": "Standard lead times range from 2-4 weeks depending on component complexity and order volume.",
+          "answer": "Standard lead times range from 2-4 weeks, with expedited options available for urgent requirements. Actual timeline depends on component complexity and quantity.",
           "question": "What are your typical production lead times?"
         },
         {
           "id": "quality",
-          "answer": "We maintain ISO 9001:2015 and ISO 14001:2015 certifications with rigorous quality control processes and advanced CNC technology.",
-          "question": "How do you ensure product quality?"
+          "answer": "We are ISO 9001:2015 and ISO 14001:2015 certified, ensuring consistent high-quality manufacturing processes and environmental management.",
+          "question": "What quality certifications do you have?"
         },
         {
           "id": "materials",
-          "answer": "We specialize in brass, stainless steel, aluminum, and copper precision components for various industrial applications.",
+          "answer": "We specialize in brass, stainless steel, aluminum, and copper, providing comprehensive material solutions for diverse industrial applications.",
           "question": "What materials can you work with?"
         },
         {
           "id": "customization",
-          "answer": "Yes, we provide complete custom manufacturing solutions tailored to specific client requirements and industry standards.",
+          "answer": "Yes, we provide complete custom manufacturing services, working closely with clients to develop precise, application-specific components.",
           "question": "Do you offer custom manufacturing?"
         }
       ],
       "title": "Frequently Asked Questions",
       "enabled": true,
-      "subtitle": "Get answers to common questions about our precision manufacturing services"
+      "subtitle": "Get quick answers about our precision manufacturing services"
     },
     "stats": {
       "type": "stats",
@@ -102,17 +102,17 @@
           "number": "40+"
         },
         {
-          "label": "Product Variants",
-          "number": "500+"
+          "label": "Industries Served",
+          "number": "5+"
         },
         {
           "label": "Satisfied Clients",
-          "number": "1000+"
+          "number": "500+"
         }
       ],
       "title": "Our Achievements",
       "enabled": true,
-      "subtitle": "Delivering precision and excellence across multiple industries"
+      "subtitle": "Delivering precision and excellence across multiple sectors"
     },
     "expertise": {
       "type": "expertise",
@@ -122,42 +122,115 @@
         {
           "id": "automotive",
           "name": "Automotive",
-          "image": "https://images.unsplash.com/photo-1586336153815-6d6c9d596d4f?w=800&auto=format",
-          "description": "Precision components for automotive systems, ensuring high performance and reliability",
+          "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&fit=crop",
+          "description": "Precision components for automotive systems, ensuring reliability and performance in critical applications",
           "applications": [
-            "Engine Components",
+            "Fuel System Components",
             "Transmission Parts",
-            "Brake System Elements",
-            "Fuel System Connectors"
+            "Engine Mounting Brackets",
+            "Sensor Housings"
           ]
         },
         {
           "id": "pneumatic",
           "name": "Pneumatic Systems",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=800&auto=format",
-          "description": "Specialized precision parts for pneumatic equipment and control systems",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=800&fit=crop",
+          "description": "High-precision pneumatic components designed for optimal performance and durability",
           "applications": [
             "Valve Components",
             "Cylinder Fittings",
             "Pressure Regulators",
-            "Air Handling Parts"
+            "Connector Assemblies"
           ]
         },
         {
           "id": "electrical",
           "name": "Electrical Sector",
-          "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&auto=format",
-          "description": "High-precision electrical and electronic component manufacturing",
+          "image": "https://images.unsplash.com/photo-1516737490857-848138dace41?w=800&fit=crop",
+          "description": "Specialized electrical system components manufactured with exceptional precision",
           "applications": [
-            "Connector Pins",
             "Terminal Blocks",
-            "Electrical Contacts",
-            "Switch Components"
+            "Connector Housings",
+            "Switch Components",
+            "Electrical Enclosures"
           ]
         }
       ],
-      "subtitle": "Delivering precision solutions across diverse industrial sectors",
-      "description": "Momai Brass specializes in manufacturing high-quality precision components for multiple industrial applications, leveraging advanced CNC technology and extensive engineering expertise."
+      "subtitle": "Comprehensive solutions across critical industrial sectors",
+      "description": "Momai Brass delivers precision-engineered components across multiple industries, leveraging advanced manufacturing technologies and deep technical expertise."
+    },
+    "whyChooseUs": {
+      "type": "why-choose-us",
+      "items": [
+        {
+          "id": "quality",
+          "icon": "shield-check",
+          "title": "Certified Quality Assurance",
+          "description": "Our ISO 9001:2015 certification guarantees consistent, high-quality manufacturing processes and rigorous quality control standards."
+        },
+        {
+          "id": "experience",
+          "icon": "calendar",
+          "title": "30+ Years of Manufacturing Excellence",
+          "description": "Decades of industry experience translate into unparalleled expertise and reliable precision component solutions."
+        },
+        {
+          "id": "technology",
+          "icon": "cog",
+          "title": "Advanced CNC Manufacturing",
+          "description": "40+ state-of-the-art CNC machines enable us to deliver complex, high-precision components with exceptional accuracy."
+        },
+        {
+          "id": "customization",
+          "icon": "settings",
+          "title": "Custom Engineering Solutions",
+          "description": "We offer tailored manufacturing services, working closely with clients to develop precise, application-specific components."
+        }
+      ],
+      "title": "Why Choose Momai Brass",
+      "enabled": true,
+      "subtitle": "Your trusted partner in precision component manufacturing"
+    },
+    "aboutusintro": {
+      "type": "about-us-intro",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=800&fit=crop",
+      "title": "About Momai Brass",
+      "enabled": true,
+      "subtitle": "Precision Engineering, Uncompromising Quality",
+      "highlights": [
+        "ISO 9001:2015 Certified",
+        "40+ Advanced CNC Machines",
+        "30+ Years Manufacturing Experience",
+        "Multi-Sector Component Solutions",
+        "Custom Manufacturing Capabilities"
+      ],
+      "description": "Founded in Rajkot, Momai Brass has been a leading precision components manufacturer for three decades. We specialize in producing high-quality parts for automotive, pneumatic, and electrical sectors using advanced CNC technology. Our commitment to excellence and innovation drives us to deliver superior manufacturing solutions."
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "items": [
+        {
+          "id": "client-1",
+          "name": "Rajesh Patel",
+          "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&fit=crop",
+          "rating": 5,
+          "company": "AutoTech Solutions",
+          "content": "Momai Brass consistently delivers exceptional precision components. Their technical expertise and commitment to quality have been crucial to our manufacturing process.",
+          "designation": "Procurement Director"
+        },
+        {
+          "id": "client-2",
+          "name": "Sameer Mehta",
+          "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1a?w=800&fit=crop",
+          "rating": 5,
+          "company": "PneumaSystem Industries",
+          "content": "Outstanding precision and reliability. Momai Brass has been our trusted manufacturing partner for complex pneumatic components.",
+          "designation": "Operations Manager"
+        }
+      ],
+      "title": "Client Testimonials",
+      "enabled": true,
+      "subtitle": "Trusted by industry leaders across multiple sectors"
     }
   }
 }
